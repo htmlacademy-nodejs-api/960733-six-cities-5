@@ -1,0 +1,133 @@
+{
+  "api": {
+    "title": [
+      "Villa near the lake",
+      "Hotel 3 stars",
+      "Hostel for everybody",
+      "Hotel first line",
+      "Hotel 5 stars all inclusive"
+    ],
+    "description": [
+      "Wonderful clean inexpensive hostel",
+      "Hotel with a beautiful view",
+      "Beachfront hotel with free breakfast",
+      "The villa is rented with service staff",
+      "Free transfer to the hotel"
+    ],
+    "city": [
+      "Paris",
+      "Cologne",
+      "Brussels",
+      "Amsterdam",
+      "Hamburg",
+      "Dusseldorf"
+    ],
+    "preview": [
+      "preview-image-1.png",
+      "preview-image-2.png",
+      "preview-image-3.png",
+      "preview-image-4.png",
+      "preview-image-5.png"
+    ],
+    "photos": [
+      "image-1.png",
+      "image-2.png",
+      "image-3.png",
+      "image-4.png",
+      "image-5.png"
+    ],
+    "isPremium": [
+      "true",
+      "false"
+    ],
+    "isFavorite": [
+      "true",
+      "false"
+    ],
+    "rating": [
+      "10",
+      "4",
+      "5",
+      "1",
+      "9"
+    ],
+    "rooms": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "guests": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "8"
+    ],
+    "price": [
+      "1800",
+      "20000",
+      "2900",
+      "18200",
+      "900"
+    ],
+    "options": [
+      "Breakfast",
+      "AirConditioning",
+      "Workspace",
+      "BabySeat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "name": [
+      "Roman Kostenko",
+      "Elizaveta Kostenko",
+      "Oleg Kostenko",
+      "Elena Shandrina",
+      "Svetlana Duplyakova"
+    ],
+    "email": [
+      "antony@gmail.com",
+      "roman@aport.ru",
+      "sveta@yandex.ru",
+      "mymail@gmail.com",
+      "samuel@mail.ru"
+    ],
+    "avatar": [
+      "avatar-1.jpeg",
+      "avatar-2.jpeg",
+      "avatar-3.jpeg",
+      "avatar-4.jpeg",
+      "avatar-5.jpeg"
+    ],
+    "password": [
+      "Nfks097TT",
+      "125n^sabIu",
+      "991bdjGG",
+      "!2snabd_)0",
+      "GnsVdssKdj9"
+    ],
+    "userType": [
+      "Default",
+      "Pro"
+    ],
+    "latitude": [
+      "48.85661",
+      "50.938361",
+      "50.846557",
+      "52.370216",
+      "53.550341",
+      "51.225402"
+    ],
+    "longitude": [
+      "2.351499",
+      "6.959974",
+      "4.351697",
+      "4.895168",
+      "10.000654",
+      "6.776314"
+    ]
+  }
+}
